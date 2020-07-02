@@ -1,18 +1,18 @@
-title:            Site Title
+title:            malwr.io
 description:      Describe your website here.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
+# Your site's domain goes here (eg: https://3v1lw1th1n.github.io, http://malwr.io, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           3v1lw1th1n
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  email:          nolteg@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -22,7 +22,7 @@ owner:
   instagram:      
   flickr:         
   tumblr:         
-  # google plus id, include the '+', eg +mmistakes
+  # google plus id, include the '+', eg +3v1lw1th1n
   google_plus:
 
 # Background image to be tiled on all pages
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Africa/Johannesburg
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
